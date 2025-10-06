@@ -33,7 +33,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners <img width="1920" height="1080" alt="Dahsboard" src="https://github.com/user-attachments/assets/f03d1235-12c3-4e64-8494-f3f3617c8b8a" />
+### Premium Partners 
 
 
 - **[Vehikl](https://vehikl.com/)**
@@ -66,4 +66,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-![Dashboard admin](screenshots/Dashboard.png)
+Dashbord Admin
+<img width="1920" height="1080" alt="Dahsboard" src="https://github.com/user-attachments/assets/f03d1235-12c3-4e64-8494-f3f3617c8b8a" />
+
+Landing Page
+<img width="1920" height="1080" alt="Landing Page" src="https://github.com/user-attachments/assets/0cc36fc1-1e08-4652-a50c-907c3ccaff6e" />
+
+Invoice 
+<img width="1920" height="1080" alt="Invoice" src="https://github.com/user-attachments/assets/25f8c4ce-0d70-42f0-821c-bb393f022a6d" />
+
+
