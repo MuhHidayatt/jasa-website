@@ -33,7 +33,8 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners
+### Premium Partners <img width="1920" height="1080" alt="Dahsboard" src="https://github.com/user-attachments/assets/f03d1235-12c3-4e64-8494-f3f3617c8b8a" />
+
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
