@@ -1,9 +1,3 @@
-Tentu! Berdasarkan screenshot yang Anda berikan, saya akan membuatkan file README.md yang profesional untuk sistem WebCraft Studio - Solusi Web & Digital Profesional.
-
-Saya akan mengasumsikan bahwa sistem ini dibangun menggunakan Laravel dan menggunakan MySQL sebagai database (karena ini adalah stack yang umum). Anda bisa menyesuaikan bagian prasyarat dan teknologi jika berbeda.
-
-Berikut adalah kerangka README.md dalam format Markdown:
-
 🚀 WebCraft Studio - Sistem Manajemen Jasa Web & Digital
 📝 Deskripsi Proyek
 WebCraft Studio adalah Sistem Informasi Manajemen Administrasi berbasis web yang dirancang untuk mengelola pesanan, klien, layanan, dan riwayat pembayaran untuk sebuah studio atau agensi yang menawarkan jasa pembuatan web dan layanan digital profesional.
